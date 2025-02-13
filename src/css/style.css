@@ -1,0 +1,11 @@
+body{
+    font-family: italic;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(255, 0, 157);
+    color: white;
+}
+
